@@ -1,0 +1,34 @@
+{
+  "name": "@nichoth/catch-routes",
+  "version": "1.0.0",
+  "description": "Listen for route changes and parse urls in the browser",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/catch-routes.git"
+  },
+  "dependencies": {
+    "querystringify": "^2.0.0",
+    "route-event": "^3.0.1",
+    "url": "^0.11.0"
+  },
+  "keywords": [
+    "browser",
+    "route",
+    "client-side",
+    "parse",
+    "url",
+    "href",
+    "event"
+  ],
+  "author": "nichoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/catch-routes/issues"
+  },
+  "homepage": "https://github.com/nichoth/catch-routes#readme"
+}
