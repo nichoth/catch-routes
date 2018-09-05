@@ -1,6 +1,6 @@
 {
   "name": "@nichoth/catch-routes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Listen for route changes and parse urls in the browser",
   "main": "index.js",
   "devDependencies": {},
