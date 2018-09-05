@@ -10,7 +10,7 @@ This is a higher level wrapper around [route-event](https://www.npmjs.com/packag
 ## example
 
 ```js
-var catchRoutes = require('../')
+var catchRoutes = require('@nichoth/catch-routes')
 
 var { setRoute } = catchRoutes(function onRoute (url) {
     console.log('href', url.href) //  => /some/path?foo=bar
